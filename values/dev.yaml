@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: 496009028960.dkr.ecr.us-east-1.amazonaws.com/spinnakertest/samplemicroservice
-  tag: 1.0
+  tag: "1.0"
   pullPolicy: Always
 
 service:
